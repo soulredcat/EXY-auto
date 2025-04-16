@@ -3,7 +3,7 @@ import { createConnection, Connection } from 'mysql';
 const db: Connection = createConnection({
     host: 'localhost',
     user: 'root', 
-    password: 'karangkobar', 
+    password: 'alephium', 
     database: 'coinlist' 
 });
 
